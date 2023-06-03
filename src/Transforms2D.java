@@ -17,7 +17,7 @@ public class Transforms2D extends JPanel
             g2.translate(300,300);  // Moves (0,0) to the center of the display.
             int whichTransform = transformSelect.getSelectedIndex();
 
-            // TODO Apply transforms here, depending on the value of whichTransform!
+            // TODO
             switch(whichTransform)
             {
                 case 0:
